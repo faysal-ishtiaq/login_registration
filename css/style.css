@@ -1,0 +1,21 @@
+.login-form{
+	width: 500px;
+	margin: 0 auto;
+}
+
+.login-form input{
+	width: 200px;
+}
+
+.button{
+	padding: 5px;
+	max-width: 100px !important;
+	font-family: "Verdana", sans-serif;
+	font-weight: bold;
+	margin: 20px auto;
+}
+
+div a{
+	color: #ff6454;
+	font-weight: bold;
+}
